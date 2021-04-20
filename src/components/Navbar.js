@@ -8,7 +8,7 @@ const Navbar = () => {
                 <div className="w-1/2">
                     <img
                         src="https://lh3.googleusercontent.com/proxy/6W6nasI7kqk8wWlitvc3EC9QEzuHBE6dTZHh1Ur-jGE1SViWqTrI3V8TljBhf3J0vJ21lRxzRu1yyNFVHamfmEYMGVMWh2soK_Hw3q_eQ0FX"
-                        className="mx-auto w-20 h-20 rounded-full"
+                        className="mx-auto w-20 h-20 rounded-full" alt='medical'
                     />
                 </div>
                 <div className="w-1/2">
